@@ -2,11 +2,12 @@
 This is a vagrant box with MySQL 5.7 for development purposes.  
 
 # Installation
-git clone
-vagrant up
+```git clone```
+
+```vagrant up```
 
 # Connection
-vagrant ssh
+vagrant ssh is available.
 
 # Credentials
 host: 10.20.30.40
