@@ -10,7 +10,9 @@ This is a vagrant box with MySQL 5.7 for development purposes.
 vagrant ssh is available.
 
 # Credentials
+```
 host: 10.20.30.40
 user: root
 password: root
 port: 3306
+```
